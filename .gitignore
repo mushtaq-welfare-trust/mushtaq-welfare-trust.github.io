@@ -1,2 +1,5 @@
 _site
+_content
 .sass-cache
+node_modules
+bower_components
