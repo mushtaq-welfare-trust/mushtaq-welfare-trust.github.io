@@ -1,0 +1,27 @@
+{
+  "name": "mushtaq-welfare-trust.github.io",
+  "version": "0.0.0",
+  "homepage": "https://github.com/mushtaq-welfare-trust/mushtaq-welfare-trust.github.io",
+  "authors": [
+    "Azizur Rahman <azizur@prodevstudio.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gel-layout": "https://github.com/bbc-gel/gel-layout.git#~0.2.0",
+    "gel-typography": "git+ssh://git@github.com/bbc/gel-typography.git#~1.0.0",
+    "gel-widths": "https://github.com/bbc/gel-widths.git#~0.1.2",
+    "normalize-css": "normalize.css#~3.0.3",
+    "gallery": "gallery-css#~1.0.2"
+  }
+}
