@@ -2,16 +2,110 @@
 title: Mushtaq Welfare Trust
 email: info@mwt.org.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Mushtaq Welfare Trust is the brainchild of a family in Manchester who have set up their own charity and school for orphaned and poverty-stricken girls on the site of their former family home in Khanewal, Pakistan.
+#
+keywords: "Mushtaq Welfare Trust, MWT, Manchester, orphaned, charity, poverty, Khanewal, Pakistan"
 baseurl: "" # the subpath of your site, e.g. /blog/
+#
 url: "http://mwt.org.uk" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+
+# Featured Content
+featured:
+  projects: [] # we need to set this to an empty array so that we can filter all projects into this empty array
+
+heros: # Featured Slides for homepage
+  - title: Free Education for Orphan and Needy Girls
+    category: Education
+    url: /projects/school-maintenance-and-education/
+    images:
+      small: https://farm6.staticflickr.com/5818/20948628842_b8889171eb.jpg
+      medium: https://farm6.staticflickr.com/5818/20948628842_b8889171eb_c.jpg
+      large: https://farm6.staticflickr.com/5818/20948628842_b8889171eb_b.jpg
+
+social-links:
+  - label: Follow us on Twitter
+    url: https://twitter.com/mushtaqwelfare
+    icon: twitter
+  - label: Follow us on Google+
+    url: https://plus.google.com/117010213420881014098
+    icon: google
+  - label: Like us on Facebook
+    url: https://www.facebook.com/Mushtaq-Welfare-Trust-457607101003001/
+    icon: facebook
+  - label: Watch, Share and Subscribe on YouTube
+    url: https://www.youtube.com/channel/UCecGYoHjTRTo4-OeThF7BQg
+    icon: youtube
+
+
+# charity commission registration
+charitycommission:
+  charityNo: 1115506
+  companyNo: 5571956
+
+contacts:
+  tel: 0161 248 9898
+  email: info@mwt.org.uk
+  address:
+    company: Mushtaq Welfare Trust
+    street: 63 Kingsway
+    city: Manchester
+    postcode: M19 2LL
+
+# PayPal Merchant account ID
+# see https://www.paypal.com/webapps/customerprofile/summary.view
+paypal:
+  id: TU8Z3DGEVDY8Y
+
+# navigation settings
+navigation:
+  header:
+    - title: Home
+      url: /
+    - title: About us
+      url: /about-us/
+    - title: Projects
+      url: /projects/
+    # - title: Get Involved
+      # url: /get-involved/
+    # - title: Donate
+      # url: /donate/
+    - title: Contact us
+      url: /contact-us/
+  footer:
+    - title: About us
+      url: /about-us/
+    - title: Terms of Service
+      url: /terms/
+    - title: Privacy
+      url: /privacy/
+    - title: Contact us
+      url: /contact-us/
+
+# Do not modify below this line unless you know what you are doing
 
 # Build settings
 markdown: kramdown
 permalink: 'pretty'
-include: ['_pages']
-exclude: ['Gemfile', 'Gemfile.lock', 'node_modules', 'package.json', 'Gruntfile.js', 'README.md']
+include: ['_pages', '_projects', '.htaccess']
+exclude: ['Gemfile', 'Gemfile.lock', 'node_modules', 'bower_components', 'package.json', 'bower.json' ,'Gruntfile.js', 'readme.md']
+# gems: [
+  # 'font-awesome-sass'
+# ]
+
+collections:
+  projects:
+    output: true
+    title: Projects
+    permalink: /projects/:path/
+
+sass:
+    style: compressed
+    sourcemap: true
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+  ignore:
+    envs: []
