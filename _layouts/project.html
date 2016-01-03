@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<section class="mwt-module mwt-module-page-header">
+  <header class="page-header mwt-module__content">
+    <nav class="mwt-module-content__breadcrumb">
+      <a href="/projects">Our projects</a>:
+    </nav>
+    <h1 class="mwt-module-content__title">{{ page.title }}</h1>
+  </header>
+
+</section>
+
+<section class="mwt-module mwt-module-page">
+  <div class="mwt-module__content mwt-layout">
+
+    <article class="mwt-module__article mwt-layout__item">
+      {{ content }}
+    </article>
+
+    <aside class="mwt-module__aside mwt-layout__item">
+      <div class="mwt-project__link">
+
+        <div class="mwt-project__link-meta">
+          <div>Support our <strong>{{ page.title }}</strong> project.</div>
+          {% include donate-btn-paypal.html %}
+        </div>
+
+        <div class="mwt-project__image" style="background-image:url({{ page.images.small }});"></div>
+
+      </div>
+    </aside>
+  </div>
+</section>

@@ -1,0 +1,60 @@
+.mwt-site-footer {
+  background: #2b1e21;
+  color: #ffffff;
+}
+
+.mwt-site-footer__column {
+  margin-bottom: mwt-spacing(base-spacing-unit);
+}
+
+.mwt-charitycommission-info {
+  font-weight: bold;
+}
+
+.mwt-charitycommission-info__items {
+  list-style: none;
+  padding: 0;
+}
+
+.mwt-contacts-info__wrapper {
+  text-align: left;
+  display: inline-block;
+}
+
+.mwt-contacts-info__email,
+.mwt-charitycommission-info__link {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.mwt-contacts-info__email:hover,
+.mwt-charitycommission-info__link:hover {
+  text-decoration: underline;
+}
+
+.mwt-contacts-info__address {
+  margin-top: mwt-spacing(double-spacing-unit);
+  margin-bottom: mwt-spacing(double-spacing-unit);
+}
+
+@include mq($from: gel-bp-s) {
+  .mwt-site-footer__column {
+    margin-bottom: mwt-spacing(double-spacing-unit);
+  }
+}
+
+@include mq($from: gel-bp-m) {
+  .mwt-site-footer__column {
+    @include gel-columns(1/2);
+  }
+
+  .mwt-site-footer__column--address {
+    text-align: right;
+  }
+}
+
+@include mq($from: gel-bp-l) {
+  .mwt-site-footer__column--info {
+    @include gel-columns(2/4);
+  }
+}

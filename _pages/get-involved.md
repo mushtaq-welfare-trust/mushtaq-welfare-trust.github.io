@@ -1,19 +1,16 @@
 ---
 layout: page
-permalink: /about-us/
-title: About us
-excerpt: Mushtaq Welfare Trust is the brainchild of a family in Manchester who have set up their own charity and school for orphaned and poverty-stricken girls on the site of their former family home in Khanewal, Pakistan.
+permalink: /get-involved/
+title: Get Involved
 ---
 
+# About Us (heading 1 marked with #)
 Mushtaq Welfare Trust is the brainchild of a family in Manchester who have set up their own charity and school for orphaned and poverty-stricken girls on the site of their former family home in Khanewal, Pakistan.
 
-The Choudry family created the registered charity to educate girls aged between five and eleven-years-old in the Punjab region.
+[The Choudry family](http://google.com) created the registered charity to educate girls aged between five and eleven-years-old in the Punjab region.
 
 The family decided to demolish their ancestral family home and build a six-storey school to bring hope to some of the poorest youngsters and families in the area. As living costs increase, education is seen as a luxury, with preference given to the males of a family, who are seen as future breadwinners.
-
-However, the motto of MWT is
-
-> To educate a man is to educate an individual, but to educate a woman is to educate a nation.
+However, the motto of MWT is "To educate a man is to educate an individual, but to educate a woman is to educate a nation."
 
 The school, which opened in March 2008, initially enrolled 15 girls and currently has 60 pupils. The family aims to have 120 pupils over the next few years.
 
@@ -31,25 +28,28 @@ A number of 40 ft sea containers filled with items such as toys, blackboards, bo
 
 Colin Manning, the ex headmaster of North Reddish Junior School in Stockport, Cheshire encouraged schools in his area to help with collecting useful resources.
 
-> ... And whosoever saves the life of one, it shall be as if he had saved the life of all of mankind.
-> <cite>[Qur’an 5:32]</cite>
+
+> "... And whosoever saves the life of one, it shall be as if he had saved the life of all of mankind." [Qur’an 5:32]
+
+
+## Our Work (heading 2 marked with ##)
+
 
 ## Our Mission
 
-<h2 class="mwt-module-content__sub-title">Food</h2>
-
+#Food
 We provide the children with a balanced and healthy diet consisting of milk, meats, seasonal  fresh fruits  and  vegetables, along with plentiful fresh drinking water.
 
-<h2 class="mwt-module-content__sub-title">Education</h2>
+#Education
 All of our staff are qualified and trained to teach the Oxford National Curriculum. Our children are taught Maths, English, Science, Computer Science, Domestic Science, Social Studies, Qur’an with Tajweed, Islamic studies, Urdu, Arabic, along with History and Geography.   
 
-<h2 class="mwt-module-content__sub-title">Welfare</h2>
+#Welfare
 We provide a safe, clean and nurturing environment for the staff and children, adult education classes for the community, and identifying any child protection issues.
 
 Every year we provide Ramadhan food parcels to each child’s family consisting of wheat flour, rice, lentils, cooking oil, sugar, tea, dried milk, dates, traditional sweet dish, and gram flour. Each parcel is made to ensure it will last the month of Ramadhan for the whole family.
 We distribute Qurbani meat after the Hajj pilgrimage on the festival of Eid Al Adha to all of the children’s families and within the community. (hyperlink Qurbani, hajj, and Eid al Adha)  
 
-<h2 class="mwt-module-content__sub-title">Health care</h2>
+#Health care
 The school ensures regular medical, dental and optical checks by trained professionals and keeps a record of every child’s height, weight, and development.
 
 We also offer medical and surgical assistance if appropriate to family members.

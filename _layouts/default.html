@@ -1,20 +1,17 @@
+---
+layout: compress
+---
+
 <!DOCTYPE html>
-<html>
-
+<html lang="en-GB">
   {% include head.html %}
-
-  <body>
-
+  <body class="mwt-modules">
     {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-
+    {{ content }}
+    {% include newsletter-signup.html %}
+    {% include social-links.html %}
     {% include footer.html %}
-
+    {% include navigation-footer.html %}
+    {% include footer-scripts.html %}
   </body>
-
 </html>

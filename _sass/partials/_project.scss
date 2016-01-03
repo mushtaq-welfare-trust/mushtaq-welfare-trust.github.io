@@ -1,0 +1,21 @@
+.mwt-donate-btn-paypal {
+  padding-top: mwt-spacing(base-spacing-unit);
+}
+.mwt-module-page .mwt-module__article {
+  padding-bottom: $size-of-human-thumb;
+}
+.mwt-module-page .mwt-module__aside {
+  text-align: center;
+}
+.mwt-module__aside .mwt-project__link-meta {
+  border-top: none;
+  border-bottom: 1px solid rgba(0,0,0,0.15);
+}
+@include mq($from: gel-bp-l) {
+  .mwt-module-page .mwt-module__article {
+    @include gel-columns(3/4);
+  }
+  .mwt-module-page .mwt-module__aside {
+    @include gel-columns(1/4);
+  }
+}
