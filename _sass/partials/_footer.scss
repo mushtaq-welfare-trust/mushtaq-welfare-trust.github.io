@@ -16,11 +16,6 @@
   padding: 0;
 }
 
-.mwt-contacts-info__wrapper {
-  text-align: left;
-  display: inline-block;
-}
-
 .mwt-contacts-info__email,
 .mwt-charitycommission-info__link {
   color: #ffffff;
@@ -41,19 +36,17 @@
   .mwt-site-footer__column {
     margin-bottom: mwt-spacing(double-spacing-unit);
   }
-}
 
-@include mq($from: gel-bp-m) {
-  .mwt-site-footer__column {
+  .mwt-contacts-info_address {
     @include gel-columns(1/2);
-  }
-
-  .mwt-site-footer__column--address {
-    text-align: right;
   }
 }
 
 @include mq($from: gel-bp-l) {
+  .mwt-site-footer__column {
+    @include gel-columns(1/2);
+  }
+
   .mwt-site-footer__column--info {
     @include gel-columns(2/4);
   }

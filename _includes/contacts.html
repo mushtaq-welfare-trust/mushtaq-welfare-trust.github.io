@@ -1,21 +1,15 @@
 {% if site.contacts %}
-<div class="mwt-contacts-info__wrapper">
+<div class="mwt-contacts-info__wrapper mwt-layout">
 
-	<h3 class="mwt-contacts-info">How to contact us</h3>
-	<div id="hcard-{{ site.contacts.address.company | slugify }}" class="vcard">
-		<div class="org mwt-contacts-info__org">{{ site.contacts.address.company }}</div>
-		<!--<a class="email mwt-contacts-info__email" href="mailto:{{ site.contacts.email }}">{{ site.contacts.email }}</a>-->
-
-		<a class="email mwt-contacts-info__email" href="http://www.google.com/recaptcha/mailhide/d?k=0191GmIDNXZcEmnUywTj8xIQ==&amp;c=ZvvOvTHXWRErClp51kWoaw==" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\0750191GmIDNXZcEmnUywTj8xIQ\75\75\46c\75ZvvOvTHXWRErClp51kWoaw\75\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">i...@mwt.org.uk</a>
-
-		<div class="adr mwt-contacts-info__address">
-			<div><i class="fa fa-map-marker"></i> Postal Address</div>
-			<div class="street-address">{{ site.contacts.address.street }}</div>
-			<span class="locality">{{ site.contacts.address.city }}</span>,
-			<span class="postal-code">{{ site.contacts.address.postcode }}</span>
-		</div>
-		<div><i class="fa fa-phone-square"></i> Telephone <div class="tel">{{ site.contacts.tel }}</div></div>
-
+	<div class="mwt-contacts-info mwt-layout__item">
+		<h3 class="mwt-contacts-info_heading">How to contact us</h3>
 	</div>
+
+	{% for contact in site.contacts  %}
+	<div class="mwt-contacts-info_address mwt-layout__item">
+		{% include contact-hcard.html %}
+	</div>
+	{% endfor %}
+
 </div>
 {% endif %}

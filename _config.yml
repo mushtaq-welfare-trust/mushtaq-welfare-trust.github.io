@@ -43,13 +43,25 @@ charitycommission:
   companyNo: 5571956
 
 contacts:
-  tel: 0161 248 9898
-  email: info@mwt.org.uk
-  address:
-    company: Mushtaq Welfare Trust
-    street: 63 Kingsway
-    city: Manchester
-    postcode: M19 2LL
+  -
+    location: UK
+    org: Mushtaq Welfare Trust
+    tel: +44 161 225 0619
+    email: info@mwt.org.uk
+    address:
+      street: 98 Milwain Road
+      city: Manchester
+      postcode: M19 2PR
+  -
+    location: Pakistan
+    org: Mushtaq Girls School
+    email: info@mwt.org.uk
+    tel: +92 652 552 600
+    address:
+      street: AAN Plaza, Block 7, Lane 6
+      city: Khanewal
+      country: Pakistan
+
 
 # PayPal Merchant account ID
 # see https://www.paypal.com/webapps/customerprofile/summary.view
