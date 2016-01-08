@@ -26,9 +26,3 @@ Your donation will provide the following:
 * Eid clothes for each child and their families
 * money is also provided for those families who don’t have provisions to cook meat
 * We provide the cooking essentials and materials
-
-Other ongoing projects:
-
-1. Sponsor a wedding project
-2. Adult education project
-3. Medical assistance project for poor families
