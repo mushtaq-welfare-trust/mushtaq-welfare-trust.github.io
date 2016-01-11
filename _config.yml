@@ -1,9 +1,8 @@
 # Site settings
 title: Mushtaq Welfare Trust
 email: info@mwt.org.uk
-description: > # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "keywords:"
  Mushtaq Welfare Trust is the brainchild of a family in Manchester who have set up their own charity and school for orphaned and poverty-stricken girls on the site of their former family home in Khanewal, Pakistan.
-#
 keywords: "Mushtaq Welfare Trust, MWT, Manchester, orphaned, charity, poverty, Khanewal, Pakistan"
 baseurl: "" # the subpath of your site, e.g. /blog/
 #
@@ -18,9 +17,9 @@ heros: # Featured Slides for homepage
     category: Education
     url: /projects/school-maintenance-and-education/
     images:
-      small: https://farm6.staticflickr.com/5818/20948628842_b8889171eb.jpg
-      medium: https://farm6.staticflickr.com/5818/20948628842_b8889171eb_c.jpg
-      large: https://farm6.staticflickr.com/5818/20948628842_b8889171eb_b.jpg
+      small: /assets/images/heros/hero-1.jpg
+      medium: /assets/images/heros/hero-1.jpg
+      large: /assets/images/heros/hero-1.jpg
 
 social-links:
   - label: Follow us on Twitter
@@ -35,7 +34,6 @@ social-links:
   - label: Watch, Share and Subscribe on YouTube
     url: https://www.youtube.com/channel/UCecGYoHjTRTo4-OeThF7BQg
     icon: youtube
-
 
 # charity commission registration
 charitycommission:
@@ -101,9 +99,6 @@ markdown: kramdown
 permalink: 'pretty'
 include: ['_pages', '_projects', '.htaccess']
 exclude: ['Gemfile', 'Gemfile.lock', 'node_modules', 'bower_components', 'package.json', 'bower.json' ,'Gruntfile.js', 'readme.md']
-# gems: [
-  # 'font-awesome-sass'
-# ]
 
 collections:
   projects:
