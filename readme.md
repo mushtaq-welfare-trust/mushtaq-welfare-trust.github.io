@@ -8,7 +8,7 @@ Run the project locally:
 
 ## Production build
 Before you upload the site you'll need to be build the site in production mode.
-`JEKYLL_ENV=production jekyll build`
+`rm -rf _site; JEKYLL_ENV=production jekyll build`
 
 ## Fonts and Icons:
 * [Font Awesome](https://fortawesome.github.io/Font-Awesome) - used for icons

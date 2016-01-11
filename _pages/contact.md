@@ -12,7 +12,7 @@ title: Contact us
 
 			<div class="mwt-contact-us-form__field-wrapper mwt-layout__item">
 			    <label>Message <span class='required'>(required)</span>
-			    	<textarea id="Field1" name="Field1" rows='10' required></textarea>
+			    	<textarea id="Field1" name="Field1" rows='10' required placeholder="Type your message..."></textarea>
 				</label>
 			</div>
 
@@ -36,7 +36,7 @@ title: Contact us
 
 			<div class="mwt-contact-us-form__field-wrapper mwt-layout__item mwt-contact-us-form__field-tel">
 			    <label>Tel
-				    <input type='tel' id="Field6" name='Field6' placeholder='Your telephone here' />
+				    <input type='tel' id="Field6" name='Field6' placeholder='Your telephone' />
 				</label>
 			</div>
 
