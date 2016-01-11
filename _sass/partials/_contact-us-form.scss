@@ -38,12 +38,25 @@
   color: #211719;
 }
 
+.mwt-module__content--contact-us-details .mwt-contacts-info__email {
+  color: #000000;
+}
+
+@include mq($until: gel-bp-m) {
+  .mwt-module__content--contact-us-form {
+    padding-bottom: $size-of-human-thumb;
+  }
+}
 
 @include mq($from: gel-bp-m) {
-  .mwt-contact-us-form {
-    @include gel-columns(3/4);
+  .mwt-module__content--contact-us-form {
+    @include gel-columns(2/4);
   }
-  
+
+  .mwt-module__content--contact-us-details {
+    @include gel-columns(2/4);
+  }
+
   .mwt-contact-us-form__field-first-name,
   .mwt-contact-us-form__field-last-name,
   .mwt-contact-us-form__field-tel,
