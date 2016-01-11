@@ -13,7 +13,7 @@ images:
 
 featured: true
 featured-title: Orphan Sponsorship
-featured-description: With almost xxx orphans around in khanewaal already alone, the need for orphan sponsorship programmes has never been greater.
+featured-description: With so many orphans around in khanewaal, the need for orphan sponsorship programmes has never been greater
 
 ---
 
