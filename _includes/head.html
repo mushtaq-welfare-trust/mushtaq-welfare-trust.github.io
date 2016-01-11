@@ -7,13 +7,13 @@
   <meta name="description" content="{% if page.description %}{{ page.meta-keywords | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
   <meta name="keywords" content="{% if page.meta-keywords %}{{ page.meta-keywords | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.keywords | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
 
-  <!-- {% capture stylesheet %}/assets/css/main.css?{{site.time | date: '%s'}}{% endcapture %} -->
-  <!-- <link rel="stylesheet" href="{{ stylesheet | prepend: site.baseurl }}"> -->
-
-  <style type="text/css">
+  {% if jekyll.environment == "development" %}
+     {% capture stylesheet %}/assets/css/main.css?{{site.time | date: '%s'}}{% endcapture %}
+     <link rel="stylesheet" href="{{ stylesheet | prepend: site.baseurl }}">
+  {% else %}
     {% capture stylesheet %}{% include stylesheet.scss %}{% endcapture %}
-    {{ stylesheet | scssify }}
-  </style>
+    <style type="text/css">{{ stylesheet | scssify }}</style>
+  {% endif %}
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
