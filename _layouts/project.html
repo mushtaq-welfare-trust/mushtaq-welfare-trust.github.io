@@ -8,26 +8,20 @@ layout: default
     </nav>
     <h1 class="mwt-module-content__title">{{ page.title }}</h1>
   </header>
-
 </section>
-
 <section class="mwt-module mwt-module-page">
   <div class="mwt-module__content mwt-layout">
-
     <article class="mwt-module__article mwt-layout__item">
       {{ content }}
+      <p>As a charity we also accept interest/riba to be used for the construction of hygiene/ toilet facilities.</p>
     </article>
-
     <aside class="mwt-module__aside mwt-layout__item">
       <div class="mwt-project__link">
-
         <div class="mwt-project__link-meta">
           <div>Support our <strong>{{ page.title }}</strong> project.</div>
           {% include donate-btn-paypal.html %}
         </div>
-
         <div class="mwt-project__image" style="background-image:url({{ page.images.small }});"></div>
-
       </div>
     </aside>
   </div>

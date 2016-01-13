@@ -3,6 +3,14 @@
   color: #ffffff;
 }
 
+.mwt-contacts-info_address a,
+.mwt-contacts-info_address a:hover,
+.mwt-contacts-info_address a:active,
+.mwt-contacts-info_address a:visited {
+  color: #ffffff;
+  text-decoration: none;
+}
+
 .mwt-site-footer__column {
   margin-bottom: mwt-spacing(base-spacing-unit);
 }

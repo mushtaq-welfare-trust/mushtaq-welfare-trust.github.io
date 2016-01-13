@@ -7,9 +7,9 @@ meta-keywords: zakat, sadaqah, charity, school, welfare, orphan, food parcel, Ra
 meta-description: Sponsor a family for sehri and iftar during Ramadan
 
 images:
-  small: https://farm6.staticflickr.com/5769/20333550243_f7f4b6f047_n.jpg
-  medium: https://farm6.staticflickr.com/5769/20333550243_f7f4b6f047_c.jpg
-  large: https://farm6.staticflickr.com/5769/20333550243_f7f4b6f047_z.jpg
+  small: /assets/images/projects/ramadan-food-parcel_n.jpg
+  medium: /assets/images/projects/ramadan-food-parcel_c.jpg
+  large: /assets/images/projects/ramadan-food-parcel_z.jpg
 
 featured: false
 featured-title: Ramadan food parcel

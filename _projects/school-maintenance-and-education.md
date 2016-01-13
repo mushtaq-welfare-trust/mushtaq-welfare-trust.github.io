@@ -4,9 +4,9 @@ permalink: /projects/school-maintenance-and-education/
 title: School maintenance and education
 
 images:
-  small: https://farm6.staticflickr.com/5733/20948609832_ea9ccaeb5f_n.jpg
-  medium: https://farm6.staticflickr.com/5733/20948609832_ea9ccaeb5f_c.jpg
-  large: https://farm6.staticflickr.com/5733/20948609832_ea9ccaeb5f_z.jpg
+  small: https://farm1.staticflickr.com/708/20937068846_e84db716f6_n.jpg
+  medium: https://farm1.staticflickr.com/708/20937068846_e84db716f6_c.jpg
+  large: https://farm1.staticflickr.com/708/20937068846_e84db716f6_z.jpg
 
 meta-description: fundraising appeal for school maintenance, school maintenance, education and medical welfare and transport
 meta-keywords: zakat, sadaqah, charity, school, welfare, medical, dental, education, orphan
