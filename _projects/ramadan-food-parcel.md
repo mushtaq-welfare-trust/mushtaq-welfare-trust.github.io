@@ -11,7 +11,7 @@ images:
   medium: /assets/images/projects/ramadan-food-parcel_c.jpg
   large: /assets/images/projects/ramadan-food-parcel_z.jpg
 
-featured: false
+featured: true
 featured-title: Ramadan food parcel
 featured-description: Sponsor a family for sehri and iftar during Ramadan
 ---
@@ -19,12 +19,12 @@ Your donation will provide the following to a poor family for the whole month of
 (Per family)
 
 * 20kg of flour
-* 2kg rice
-* 2kg sugar
-* 1kg of gram flour
-* 1kg of lentils
+* 2 kg rice
+* 2 kg sugar
+* 1 kg of gram flour
+* 1 kg of lentils
 * 2 litters of oil
-* 1kg of dates
+* 1 kg of dates
 * 4 packet of vermicelli
 * 0.5kg tea
 

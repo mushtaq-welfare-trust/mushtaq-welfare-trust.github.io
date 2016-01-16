@@ -18,12 +18,12 @@ featured-description: School maintenance and education
 
 Construction began in may 2005 and was completed by March 2008, it is constructed from locally sourced material, including stone, marble and granite with iron frameworks and double tinted windows using local and uk based architects who created a bespoke plan and design suitable for our needs and surrounding environment.
 
-The school compirses of 6 stories.
+The school comprises of 6 stories.
 
 * The ground floor is used for rented shops which helps cover the basic expenses of the school
-* First and second floor are used for classrooms and educational faciltiies
-* Third floor is for staff accomdation and visitor accomdation
-* Fourth and fifth and sixth floors are used for resources and storages faciltiies
+* First and second floor are used for classrooms and educational facilities
+* Third floor is for staff and visitor accommodations
+* Fourth and fifth and sixth floors are used for resources and storages facilities
 
 The building also comprise of a small outdoor kitchen.
 

@@ -22,7 +22,7 @@ Your donation will provide the following:
 
 (Per family, may increase according to size of family)
 
-* 2kg of meat
+* 2 kg of meat
 * Eid clothes for each child and their families
 * money is also provided for those families who don’t have provisions to cook meat
 * We provide the cooking essentials and materials

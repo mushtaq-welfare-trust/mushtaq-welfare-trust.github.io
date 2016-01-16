@@ -13,7 +13,7 @@ images:
 
 featured: true
 featured-title: Orphan Sponsorship
-featured-description: With so many orphans around in khanewaal, the need for orphan sponsorship programmes has never been greater
+featured-description: With so many orphans around in khanewal, the need for orphan sponsorship programmes has never been greater
 
 ---
 
@@ -24,5 +24,5 @@ Your sponsorship will be used for the following:
 * Access to medication if prescribed by a doctor.
 * Daily transport to and from school.
 * Indoor and outdoor footwear.
-* Eid clothes on eid ul fitr and qurabani on eid ul adha.
+* Eid clothes on eid ul fitr and Qurbani on eid ul adha.
 * End of year prizes.

@@ -11,7 +11,7 @@ images:
   medium: /assets/images/projects/medical-assistance_c.jpg
   large: /assets/images/projects/medical-assistance_z.jpg
 
-featured: false
+featured: true
 featured-title: Medical assistance
 featured-description: Help us provide much needed medical assistance for poor families
 ---

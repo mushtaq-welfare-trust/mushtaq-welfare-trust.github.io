@@ -21,7 +21,7 @@ MWT wants to give girls, orphaned and in desperate need, the chance to stand on 
 
 The idea for the school was inspired by the late paternal grandfather of the Choudry family, Mushtaq Ahmed Choudry, a headmaster who worked in the region and would give up his own time to visit poorer communities and teach the villagers who would who otherwise not have received an education.
 
-The Choudry family came to the conclusion that sponsoring the orphans would make a massive difference to the immediate and long term stability of the orphans themselves, their families and their communities. the money we raise will help some of the money vulnerbale children in Khanewal.
+The Choudry family came to the conclusion that sponsoring the orphans would make a massive difference to the immediate and long term stability of the orphans themselves, their families and their communities. the money we raise will help some of the money vulnerable children in Khanewal.
 
 Pupils are provided with everything from uniforms to books, uniform, 3 meals a day, transport, health,medical and dental care, along with further support and care to their families.
 
