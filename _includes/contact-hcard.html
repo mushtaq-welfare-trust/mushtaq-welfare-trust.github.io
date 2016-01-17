@@ -4,6 +4,7 @@
   <div>
     <i class="fa fa-envelope"></i> <a class="email mwt-contacts-info__email" href="mailto:{{ contact.email }}">{{ contact.email }}</a>
   </div>
+  {% if contact.address %}
   <div class="adr mwt-contacts-info__address">
     <div><i class="fa fa-map-marker"></i> Postal Address</div>
     <div class="street-address">{{ contact.address.street }}</div>
@@ -11,5 +12,8 @@
     <span class="postal-code">{{ contact.address.postcode }}</span>
     <span class="country-name">{{ contact.address.country }}</span>
   </div>
-  <div><i class="fa fa-phone-square"></i> Telephone <div class="tel">{{ contact.tel }}</div></div>
+  {% endif %}
+  <div class="mwt-contacts-info__tel">
+    <i class="fa fa-phone-square"></i> Telephone <div class="tel">{{ contact.tel }}</div>
+  </div>
 </div>

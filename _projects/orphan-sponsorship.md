@@ -20,9 +20,9 @@ featured-description: With so many orphans around in khanewal, the need for orph
 Your sponsorship will be used for the following:
 
 * Provide each child with two balanced, healthy and nutritious meals a day (whilst in school) using local produce including meat and vegetables, breakfast, lunch, snacks and access to free flowing and clean, cool, filtered water.
-* Full educational resources and facilities, all books and stationary, summer and winter uniforms and, foot wear, bags, and toiletries, medical care, dental and optical care.
+* Full educational resources and facilities, all books and stationary, summer and winter uniforms, foot wear, bags, and toiletries, medical care, dental and optical care.
 * Access to medication if prescribed by a doctor.
 * Daily transport to and from school.
 * Indoor and outdoor footwear.
-* Eid clothes on eid ul fitr and Qurbani on eid ul adha.
+* Eid clothes on Eid ul fitr and Qurbani on Eid ul Adha.
 * End of year prizes.

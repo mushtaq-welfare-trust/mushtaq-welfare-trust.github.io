@@ -16,7 +16,7 @@ featured-title: School Maintenance
 featured-description: School maintenance and education
 ---
 
-Construction began in may 2005 and was completed by March 2008, it is constructed from locally sourced material, including stone, marble and granite with iron frameworks and double tinted windows using local and uk based architects who created a bespoke plan and design suitable for our needs and surrounding environment.
+Construction began in May 2005 and was completed by March 2008. It is constructed from locally sourced material, including stone, marble and granite with iron frameworks and double tinted windows using local and uk based architects who created a bespoke plan and design suitable for our needs and surrounding environment.
 
 The school comprises of 6 stories.
 

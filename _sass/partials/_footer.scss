@@ -35,9 +35,9 @@
   text-decoration: underline;
 }
 
-.mwt-contacts-info__address {
+.mwt-contacts-info__address,
+.mwt-contacts-info__tel {
   margin-top: mwt-spacing(double-spacing-unit);
-  margin-bottom: mwt-spacing(double-spacing-unit);
 }
 
 @include mq($from: gel-bp-s) {

@@ -46,10 +46,10 @@ contacts:
     org: Mushtaq Welfare Trust
     tel: +44 161 225 0619
     email: info@mwt.org.uk
-    address:
-      street: 98 Milwain Road
-      city: Manchester
-      postcode: M19 2PR
+    # address:
+    #   street: 98 Milwain Road
+    #   city: Manchester
+    #   postcode: M19 2PR
   -
     location: Pakistan
     org: Mushtaq Girls School

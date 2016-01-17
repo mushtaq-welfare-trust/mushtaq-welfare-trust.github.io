@@ -11,8 +11,9 @@ layout: default
 </section>
 <section class="mwt-module mwt-module-page">
   <div class="mwt-module__content mwt-layout">
-    <article class="mwt-module__article mwt-layout__item">
+    <article class="mwt-module__article mwt-module__project mwt-layout__item">
       {{ content }}
+      <p><strong>We operate a 100% donation policy.</strong> All your donations goes to {{ page.title }} project and no administration charges.</p>
       <p>As a charity we also accept interest/riba to be used for the construction of hygiene/ toilet facilities.</p>
     </article>
     <aside class="mwt-module__aside mwt-layout__item">
@@ -20,6 +21,9 @@ layout: default
         <div class="mwt-project__link-meta">
           <div>Support our <strong>{{ page.title }}</strong> project.</div>
           {% include donate-btn-paypal.html %}
+          <div class="mwt-minion">
+            <strong title="All your donations goes to {{ page.title }} project and no administration charges.">We operate a 100% donation policy.</strong>
+          </div>
         </div>
         <div class="mwt-project__image" style="background-image:url({{ page.images.small }});"></div>
       </div>

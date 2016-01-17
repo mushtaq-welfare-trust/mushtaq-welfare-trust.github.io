@@ -1,6 +1,6 @@
 ---
 layout: project
-permalink: /projects/qurbani-project/
+permalink: /projects/qurbani-collection-and-distribution/
 title: Qurbani collection and distribution
 
 excerpt: Qurbani collection and distribution

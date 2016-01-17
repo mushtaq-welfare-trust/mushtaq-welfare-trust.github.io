@@ -22,6 +22,7 @@
 
 .mwt-module-content__sub-title {
 	@include gel-typography('double-pica');
+	padding-top: mwt-spacing(double-spacing-unit);
 }
 
 

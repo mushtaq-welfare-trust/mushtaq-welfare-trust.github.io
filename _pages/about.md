@@ -21,9 +21,9 @@ MWT wants to give girls, orphaned and in desperate need, the chance to stand on 
 
 The idea for the school was inspired by the late paternal grandfather of the Choudry family, Mushtaq Ahmed Choudry, a headmaster who worked in the region and would give up his own time to visit poorer communities and teach the villagers who would who otherwise not have received an education.
 
-The Choudry family came to the conclusion that sponsoring the orphans would make a massive difference to the immediate and long term stability of the orphans themselves, their families and their communities. the money we raise will help some of the money vulnerable children in Khanewal.
+The Choudry family came to the conclusion that sponsoring the orphans would make a massive difference to the immediate and long term stability of the orphans themselves, their families and their communities. The money we raise will help some of the money vulnerable children in Khanewal.
 
-Pupils are provided with everything from uniforms to books, uniform, 3 meals a day, transport, health,medical and dental care, along with further support and care to their families.
+Pupils are provided with everything from uniforms to books, 3 meals a day, transport, health, medical and dental care, along with further support and care to their families.
 
 Schools in Greater Manchester and Stockport have backed the family by raising funds and donating resources and furniture to equip the new building.
 
@@ -34,23 +34,25 @@ Colin Manning, the ex headmaster of North Reddish Junior School in Stockport, Ch
 > ... And whosoever saves the life of one, it shall be as if he had saved the life of all of mankind.
 > <cite>[Qur’an 5:32]</cite>
 
+---
+
 ## Our Mission
 
 <h2 class="mwt-module-content__sub-title">Food</h2>
 
-We provide the children with a balanced and healthy diet consisting of milk, meats, seasonal  fresh fruits  and  vegetables, along with plentiful fresh drinking water.
+We provide the <a href="/projects/orphan-sponsorship/">children</a> with a balanced and healthy diet consisting of milk, meats, seasonal  fresh fruits  and  vegetables, along with plentiful fresh drinking water.
 
 <h2 class="mwt-module-content__sub-title">Education</h2>
-All of our staff are qualified and trained to teach the Oxford National Curriculum. Our children are taught Maths, English, Science, Computer Science, Domestic Science, Social Studies, Qur’an with Tajweed, Islamic studies, Urdu, Arabic, along with History and Geography.   
+All of our staff are qualified and trained to teach the Oxford National Curriculum. <a href="/projects/orphan-sponsorship/">Our children</a> are taught Maths, English, Science, Computer Science, Domestic Science, Social Studies, Qur’an with Tajweed, Islamic studies, Urdu, Arabic, along with History and Geography.
 
 <h2 class="mwt-module-content__sub-title">Welfare</h2>
-We provide a safe, clean and nurturing environment for the staff and children, adult education classes for the community, and identifying any child protection issues.
+We <a href="/projects/school-maintenance-and-education/">provide a safe, clean and nurturing environment</a> for the staff and children, adult education classes for the community, and identifying any child protection issues.
 
-Every year we provide Ramadhan food parcels to each child’s family consisting of wheat flour, rice, lentils, cooking oil, sugar, tea, dried milk, dates, traditional sweet dish, and gram flour. Each parcel is made to ensure it will last the month of Ramadhan for the whole family.
-We distribute Qurbani meat after the Hajj pilgrimage on the festival of Eid Al Adha to all of the children’s families and within the community. (hyperlink Qurbani, hajj, and Eid al Adha)  
+Every year <a href="/projects/ramadan-food-parcel/">we provide Ramadhan food parcels</a> to each child's family consisting of wheat flour, rice, lentils, cooking oil, sugar, tea, dried milk, dates, traditional sweet dish, and gram flour. Each <a href="/projects/ramadan-food-parcel/">parcel</a> is made to ensure it will last the month of <a href="/projects/ramadan-food-parcel/">Ramadhan</a> for the whole family.
+
+We <a href="/projects/qurbani-collection-and-distribution/">distribute Qurbani meat</a> after the Hajj pilgrimage on the festival of Eid Al Adha to all of the <a href="/projects/qurbani-collection-and-distribution/">children's families and within the community</a>.
 
 <h2 class="mwt-module-content__sub-title">Health care</h2>
 The school ensures regular medical, dental and optical checks by trained professionals and keeps a record of every child’s height, weight, and development.
 
-We also offer medical and surgical assistance if appropriate to family members.
-A befriending and counselling service is available to all of the children if needed.
+We also offer <a href="/projects/medical-assistance/">medical and surgical assistance</a> if appropriate to family members. A befriending and Counseling service is available to all of the children if needed.
