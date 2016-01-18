@@ -2,6 +2,15 @@
 
 Source code for [Mushtaq Welfare Trust website](http://mwt.org.uk/).
 
+## Getting started
+The site is built using [Jekyll](http://jekyllrb.com/).
+
+Steps to setup development machine.
+* `gem install jekyll`
+* `cd ~` or to a directory where you want to store the source code
+* `git clone git@bitbucket.org:mushtaq-welfare-trust/website.git`
+
+
 ## Development
 Run the project locally:
 `rm -rf _site; jekyll serve --trace`
