@@ -181,7 +181,7 @@
 }
 
 
-@include mq($from: gel-bp-m) {
+@include mq($from: mwt-bp-m) {
   .mwt-site-header-logo {
     text-align: left;
   }
@@ -202,14 +202,14 @@
   }
 }
 
-@include mq($until: gel-bp-l) {
+@include mq($until: mwt-bp-l) {
   .mwt-site-header-nav-menu {
     padding-top: $size-of-human-thumb;
   }
 }
 
 
-@include mq($from: gel-bp-l) {
+@include mq($from: mwt-bp-l) {
   .mwt-donate {
     position: absolute;
     top: mwt-spacing(triple-spacing-unit);

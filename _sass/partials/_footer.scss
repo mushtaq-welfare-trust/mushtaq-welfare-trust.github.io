@@ -40,7 +40,7 @@
   margin-top: mwt-spacing(double-spacing-unit);
 }
 
-@include mq($from: gel-bp-s) {
+@include mq($from: mwt-bp-s) {
   .mwt-site-footer__column {
     margin-bottom: mwt-spacing(double-spacing-unit);
   }
@@ -50,7 +50,7 @@
   }
 }
 
-@include mq($from: gel-bp-l) {
+@include mq($from: mwt-bp-l) {
   .mwt-site-footer__column {
     @include gel-columns(1/2);
   }

@@ -26,7 +26,7 @@
 }
 
 
-@include mq($from: gel-bp-s) {
+@include mq($from: mwt-bp-s) {
 	.mwt-module-page-header {
 		margin-top: 130px;
 	}

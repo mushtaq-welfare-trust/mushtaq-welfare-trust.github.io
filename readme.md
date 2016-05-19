@@ -6,13 +6,16 @@ Source code for [Mushtaq Welfare Trust website](http://mwt.org.uk/).
 The site is built using [Jekyll](http://jekyllrb.com/).
 
 Prerequisites:
-* Install Ruby on your machine if you do noty already have it. see https://www.ruby-lang.org/en/downloads/
+* Install Ruby from https://www.ruby-lang.org/en/downloads/
 * Install Bundler gem from http://bundler.io/
+* Install Node.js from https://nodejs.org/en/download/
 
 Steps to setup development machine.
 * `git clone git@github.com:mushtaq-welfare-trust/mushtaq-welfare-trust.github.io.git`
 * `cd mushtaq-welfare-trust.github.io`
 * `bundle install`
+* `npm i bower -g`
+* `bower install`
 
 ## Development
 Run the project locally:
