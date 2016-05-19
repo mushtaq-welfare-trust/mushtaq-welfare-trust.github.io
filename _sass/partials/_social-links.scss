@@ -37,13 +37,13 @@
   width: ($size-of-human-thumb - mwt-spacing(base-spacing-unit));
 }
 
-@include mq($from: gel-bp-m) {
+@include mq($from: mwt-bp-m) {
   .mwt-social-links-nav__item  {
     @include gel-columns(1/2);
   }
 }
 
-@include mq($from: gel-bp-l) {
+@include mq($from: mwt-bp-l) {
 	.mwt-social-links-nav__header {
 	  padding-bottom: mwt-spacing(double-spacing-unit);
 	}

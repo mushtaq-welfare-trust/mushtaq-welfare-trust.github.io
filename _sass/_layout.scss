@@ -10,7 +10,7 @@
   padding: mwt-spacing(double-spacing-unit) mwt-spacing(base-spacing-unit);
 }
 
-@include mq($from: gel-bp-s) {
+@include mq($from: mwt-bp-s) {
   .mwt-module__content {
     padding-left: mwt-spacing(double-spacing-unit);
     padding-right: mwt-spacing(double-spacing-unit);

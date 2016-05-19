@@ -42,13 +42,13 @@
   color: #000000;
 }
 
-@include mq($until: gel-bp-m) {
+@include mq($until: mwt-bp-m) {
   .mwt-module__content--contact-us-form {
     padding-bottom: $size-of-human-thumb;
   }
 }
 
-@include mq($from: gel-bp-m) {
+@include mq($from: mwt-bp-m) {
   .mwt-module__content--contact-us-form {
     @include gel-columns(2/4);
   }

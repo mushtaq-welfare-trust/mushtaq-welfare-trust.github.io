@@ -33,7 +33,7 @@
   border-bottom: 1px solid rgba(0,0,0,0.15);
 }
 
-@include mq($from: gel-bp-l) {
+@include mq($from: mwt-bp-l) {
   .mwt-module-page .mwt-module__article {
     @include gel-columns(3/4);
   }

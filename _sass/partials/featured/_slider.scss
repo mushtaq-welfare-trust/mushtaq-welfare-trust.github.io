@@ -93,7 +93,7 @@ $gallery-height-desktop: 600px;
 //   @include gallery($i);
 // }
 
-@include mq($from: gel-bp-s) {
+@include mq($from: mwt-bp-s) {
   .mwt-slider__slide--info {
     margin-right: mwt-spacing(double-spacing-unit);
     bottom: mwt-spacing(double-spacing-unit);
@@ -101,7 +101,7 @@ $gallery-height-desktop: 600px;
   }
 }
 
-@include mq($from: gel-bp-m) {
+@include mq($from: mwt-bp-m) {
   .mwt-slider__slide--info {
     margin-right: mwt-spacing(double-spacing-unit);
     bottom: double(mwt-spacing(triple-spacing-unit));

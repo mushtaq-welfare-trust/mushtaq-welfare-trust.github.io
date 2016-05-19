@@ -43,13 +43,13 @@
   color: #ded0d3;
 }
 
-@include mq($from: gel-bp-s) {
+@include mq($from: mwt-bp-s) {
   .mwt-newsletter {
     padding: mwt-spacing(double-spacing-unit);
   }
 }
 
-@include mq($from: gel-bp-m) {
+@include mq($from: mwt-bp-m) {
   .mwt-newsletter-signup-form__field-wrapper {
     @include gel-columns(1/4);
     max-width: 380px;

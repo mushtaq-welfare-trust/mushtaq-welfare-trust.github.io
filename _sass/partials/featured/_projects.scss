@@ -67,19 +67,12 @@
   padding-left: mwt-spacing(base-spacing-unit);
 }
 
-
-@include mq($from: gel-bp-s) {
+@include mq($from: mwt-bp-s) {
   .mwt-project {
     margin-bottom: mwt-spacing(double-spacing-unit);
   }
   
   .mwt-project__link-meta {
     padding: mwt-spacing(double-spacing-unit);
-  }
-}
-
-@include mq($from: gel-bp-m) {
-  .mwt-project {
-    @include gel-columns(1/3);
   }
 }
