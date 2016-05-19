@@ -5,11 +5,14 @@ Source code for [Mushtaq Welfare Trust website](http://mwt.org.uk/).
 ## Getting started
 The site is built using [Jekyll](http://jekyllrb.com/).
 
-Steps to setup development machine.
-* `gem install jekyll`
-* `cd ~` or to a directory where you want to store the source code
-* `git clone git@bitbucket.org:mushtaq-welfare-trust/website.git`
+Prerequisites:
+* Install Ruby on your machine if you do noty already have it. see https://www.ruby-lang.org/en/downloads/
+* Install Bundler gem from http://bundler.io/
 
+Steps to setup development machine.
+* `git clone git@github.com:mushtaq-welfare-trust/mushtaq-welfare-trust.github.io.git`
+* `cd mushtaq-welfare-trust.github.io`
+* `bundle install`
 
 ## Development
 Run the project locally:
