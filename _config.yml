@@ -98,7 +98,7 @@ navigation:
 markdown: kramdown
 permalink: 'pretty'
 include: ['_pages', '_projects', '.htaccess']
-exclude: ['Gemfile', 'Gemfile.lock', 'node_modules', 'bower_components', 'package.json', 'bower.json' ,'Gruntfile.js', 'readme.md']
+exclude: ['Gemfile', 'Gemfile.lock', 'node_modules', 'bower_components', 'package.json', 'bower.json' ,'Gruntfile.js', 'readme.md', 'vendor']
 
 collections:
   projects:
