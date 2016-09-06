@@ -5,7 +5,7 @@ Source code for [Mushtaq Welfare Trust website](http://mwt.org.uk/).
 ## Getting started
 The site is built using [Jekyll](http://jekyllrb.com/).
 
-Prerequisites:
+### macOS Prerequisites Native:
 * Install Ruby from https://www.ruby-lang.org/en/downloads/
 * Install Bundler gem from http://bundler.io/
 * Install Node.js from https://nodejs.org/en/download/
@@ -16,6 +16,16 @@ Steps to setup development machine.
 * `bundle install`
 * `npm i bower -g`
 * `bower install`
+
+### macOS Prerequisites via Docker:
+* Install [Docker for Mac](https://docs.docker.com/docker-for-mac/). You can use the Beta/Stable channel.
+* Follow the [Getting Started with Docker for Windows](https://docs.docker.com/docker-for-windows/) from Step 1 to Step 4 to check your setup.
+
+### Windows Prerequisites:
+For development on Windows should be done inside a Docker container as setting up requirements is a very painful process on Windwos OS.
+
+* Install [Docker for Windows](https://docs.docker.com/docker-for-windows/). You can use the Beta/Stable channel.
+* Follow the [Getting Started with Docker for Windows](https://docs.docker.com/docker-for-windows/) from Step 1 to Step 4 to check your setup.
 
 ## Development
 Run the project locally:
