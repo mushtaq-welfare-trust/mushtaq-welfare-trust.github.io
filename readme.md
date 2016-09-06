@@ -19,14 +19,29 @@ Steps to setup development machine.
 
 ## Development
 Run the project locally:
-`rm -rf _site; jekyll serve --trace`
+```
+rm -rf _site; jekyll serve --trace
+```
 
 Using Docker:
-`docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll -it -p 127.0.0.1:4000:4000 jekyll/jekyll bundle exe jekyll serve --trace`
+```
+rm -rf _site; docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll -it -p 127.0.0.1:4000:4000 jekyll/jekyll npm i bower -g; bower install; bundle exe jekyll serve --trace
+```
 
 ## Production build
 Before you upload the site you'll need to be build the site in production mode.
-`rm -rf _site; JEKYLL_ENV=production jekyll build`
+
+Locally:
+```
+rm -rf _site; JEKYLL_ENV=production jekyll build
+```
+
+Using Docker:
+```
+rm -rf _site; docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll -it -p 127.0.0.1:4000:4000 --env JEKYLL_ENV=production jekyll/jekyll npm i bower -g; bower install; bundle exe jekyll build --trace
+```
+
+Once the command finish upload the content of `_site` directory to root of your web server.
 
 ## Fonts and Icons:
 * [Font Awesome](https://fortawesome.github.io/Font-Awesome) - used for icons
