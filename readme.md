@@ -33,6 +33,10 @@ Run the project locally:
 rm -rf _site; jekyll serve --trace
 ```
 
+```
+rm -rf _site; bundle exe jekyll serve --trace
+```
+
 Using Docker:
 ```
 rm -rf _site; docker run --rm --label=jekyll --volume=$(pwd):/srv/jekyll -it -p 127.0.0.1:4000:4000 jekyll/jekyll npm i bower -g; bower install; bundle exe jekyll serve --trace

@@ -44,7 +44,7 @@ contacts:
   -
     location: UK
     org: Mushtaq Welfare Trust
-    tel: +44 161 225 0619
+    tel: +44 788 524 2147
     email: info@mwt.org.uk
     # address:
     #   street: 98 Milwain Road
@@ -64,7 +64,7 @@ contacts:
 # PayPal Merchant account ID
 # see https://www.paypal.com/webapps/customerprofile/summary.view
 paypal:
-  id: TU8Z3DGEVDY8Y
+  id: TU8Z3DGEVDY8Y #refers to the donation button
 
 # navigation settings
 navigation:
