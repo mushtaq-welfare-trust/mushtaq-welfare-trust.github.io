@@ -28,47 +28,8 @@
     padding-left: 16px;
 }
 
-.mwt-how-to-donate-signup-form {
-    padding-top: mwt-spacing(base-spacing-unit);
-    padding-bottom: mwt-spacing(base-spacing-unit);
-    text-align: left;
-}
-
-.mwt-how-to-donate-signup-form__field-wrapper {
-    padding-top: mwt-spacing(base-spacing-unit);
-    display: inline-block;
-}
-
-.mwt-how-to-donate-signup-form__field-wrapper input {
-    width: 100%;
-    display: block;
-    box-sizing: border-box;
-    height: $size-of-human-thumb;
-    padding: mwt-spacing(half-spacing-unit);
-}
-
-.mwt-how-to-donate-signup-form__submit-btn {
-    @include gel-typography( 'pica-bold');
-    color: #211719;
-}
-
 .mwt-how-to-donate-footer__memo {
     @include gel-typography( 'brevier');
     text-align: left;
     color: #ded0d3;
-}
-// @include mq($from: mwt-bp-s) {
-//   .mwt-how-to-donate {
-//     padding: mwt-spacing(double-spacing-unit);
-//   }
-// }
-@include mq($from: mwt-bp-m) {
-    .mwt-how-to-donate-signup-form__field-wrapper {
-        @include gel-columns(1/4);
-        max-width: 380px;
-    }
-
-    .mwt-how-to-donate-signup-form__field-wrapper--btn {
-        @include gel-columns(1/2);
-    }
 }
