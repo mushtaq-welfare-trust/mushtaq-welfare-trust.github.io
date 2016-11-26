@@ -14,7 +14,10 @@
     <input type="hidden" name="item_name" value="{{ site.title }}">
     <input type="hidden" name="item_number" value="{{ page.title }}">
     <input type="hidden" name="currency_code" value="GBP">
-
+    <!--
+    <input type="hidden" name="amount" value="20">
+    -->
+    
     <!-- Specify details about return from PayPal -->
     <input type="hidden" name="return" value="{{ completed_url }}">
     <input type="hidden" name="cancel_return" value="{{ cancelled_url }}">
