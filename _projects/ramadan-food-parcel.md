@@ -14,6 +14,7 @@ images:
 featured: true
 featured-title: Ramadan food parcel
 featured-description: Sponsor a family for sehri and iftar during Ramadan
+recommended-donation: £30
 ---
 Your donation will provide the following to a poor family for the whole month of Ramadan:
 (Per family)

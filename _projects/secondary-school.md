@@ -14,6 +14,7 @@ meta-keywords: zakat, sadaqah, charity, school, welfare, medical, dental, educat
 featured: true
 featured-title: Secondary school
 featured-description: Support our secondary school
+recommended-donation: £10
 ---
 
 Your donation will go towards the following:

@@ -15,6 +15,11 @@ layout: default
       {{ content }}
       <p><strong>We operate a 100% donation policy.</strong> All your donations goes to {{ page.title }} project and no administration charges.</p>
       <p>As a charity we also accept interest/riba to be used for the construction of hygiene/ toilet facilities.</p>
+
+      {% if page.recommended-donation %}
+      <p><strong>Recommended donation amount: {{page.recommended-donation}}</strong></p>
+      {% endif %}
+      
     </article>
     <aside class="mwt-module__aside mwt-layout__item">
       <div class="mwt-project__link">

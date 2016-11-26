@@ -14,7 +14,7 @@ images:
 featured: true
 featured-title: Orphan Sponsorship
 featured-description: With so many orphans around in khanewal, the need for orphan sponsorship programmes has never been greater
-
+recommended-donation: £30
 ---
 
 Your sponsorship will be used for the following:

@@ -14,6 +14,7 @@ meta-keywords: zakat, sadaqah, charity, school, welfare, medical, dental, educat
 featured: true
 featured-title: Adult education
 featured-description: Support our adult education services
+recommended-donation: £20
 ---
 
 Your donation will go towards the following:
