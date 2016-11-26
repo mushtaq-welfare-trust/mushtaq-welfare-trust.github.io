@@ -14,6 +14,7 @@ images:
 featured: true
 featured-title: Medical assistance
 featured-description: Help us provide much needed medical assistance for poor families
+recommended-donation: £20
 ---
 
 Your donation will provide:

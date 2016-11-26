@@ -14,7 +14,7 @@ images:
 featured: true
 featured-title: Sponsor a wedding
 featured-description: With so many orphans growing up with us we need your support to get married so that they can start their own families.
-
+recommended-donation: £50
 ---
 
 With so many orphans growing up with us we need your support to get them married so that they can start their own families.

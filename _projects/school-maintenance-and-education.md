@@ -14,6 +14,7 @@ meta-keywords: zakat, sadaqah, charity, school, welfare, medical, dental, educat
 featured: true
 featured-title: School Maintenance
 featured-description: School maintenance and education
+recommended-donation: £10
 ---
 
 Construction began in May 2005 and was completed by March 2008. It is constructed from locally sourced material, including stone, marble and granite with iron frameworks and double tinted windows using local and uk based architects who created a bespoke plan and design suitable for our needs and surrounding environment.

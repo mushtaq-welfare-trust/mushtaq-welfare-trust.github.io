@@ -16,6 +16,7 @@ images:
 featured: true
 featured-title: Qurbani
 featured-description: Qurbani collection and distribution
+recommended-donation: Lamb £95 - One share (1/7th) of a cow £75
 ---
 
 Your donation will provide the following:
